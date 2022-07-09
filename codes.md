@@ -70,8 +70,8 @@ int main(){
     return 0;
 }
 ```
-
-
+```
+```
 # 数学公式
 $$
 \frac{\partial f}{\partial x}=2\sqrt{a}x
