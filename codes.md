@@ -130,11 +130,11 @@ $$
 
 ## 引用链接
 [百度][id],[百度][id],[百度][id]
-[id]:baidu.com "一个搜索引擎"
+[id]:https://www.baidu.com "一个搜索引擎"
 
 ```
 [百度][id],[百度][id],[百度][id]
-[id]:baidu.com "一个搜索引擎"
+[id]:https://www.baidu.com "一个搜索引擎"
 ```
 
 ## 连接到标题
@@ -155,6 +155,7 @@ https://www.baidu.com/
 ![重命名图片](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度搜索")
 
 ```
+也可以是本地图片的路径
 ![重命名图片](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度搜索")
 ```
 
@@ -163,6 +164,7 @@ https://www.baidu.com/
 H~2~O,x^2^=10,==高亮==
 
 ```
+有些需要在设置中打开
 *斜体***加粗**`行内代码`,<u>下划线</u>,:smile:,$\theta=x^2$
 H~2~O,x^2^=10,==高亮==
 ```
@@ -171,5 +173,6 @@ H~2~O,x^2^=10,==高亮==
 
 
 ```
+甚至可以引用视频，但这里不支持
 <iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ```
